@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
 
 body {
-	background: linear-gradient(165deg, #DCDCDC, #FFF5EE);
-    /***background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Galaxy-Wallpapers-HD.jpg);
-    background-size: 100%;***/
+	padding:0px;
+    	background-image: url(https://apamarsanjoselogrono.files.wordpress.com/2017/12/documentos.jpg?w=825);
+    	background-size: 100%;
 }
 
 #capcalera{

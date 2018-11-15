@@ -3,8 +3,9 @@
 
 body {
 	padding: 0;
-    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Galaxy-Wallpapers-HD.jpg);
-    background-size: 100%;
+	background: linear-gradient(165deg, #DCDCDC, #FFF5EE);
+    /***background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Galaxy-Wallpapers-HD.jpg);
+    background-size: 100%;***/
 }
 
 #capcalera{

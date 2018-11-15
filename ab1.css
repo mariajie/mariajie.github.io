@@ -2,15 +2,14 @@
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
 
 body {
-	padding: 0;
 	background: linear-gradient(165deg, #DCDCDC, #FFF5EE);
     /***background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/10/Black-Galaxy-Wallpapers-HD.jpg);
     background-size: 100%;***/
 }
 
 #capcalera{
-	background: black;
-	color: black;
+	background: #504a4b;
+	color: #504a4b;
 	height: 80px;
 	
 	width: 100%; 
@@ -34,7 +33,7 @@ h2{
     font-size: 12pt;
     padding-left: 450px;
     padding-top: 20px;
-    color: white;
+    color: #f2dbc0;
     
 }
 
@@ -44,7 +43,7 @@ p{
     font-size: 12pt;
     padding-left: 50px;
     padding-top: 10px;
-    color: white;
+    color: #f2dbc0;
     
 }
 
@@ -54,7 +53,7 @@ p1{
     font-size: 12pt;
     padding-left: 40%;
     padding-top: 30px;
-    color: white;
+    color: #f2dbc0;
     
 }
 
@@ -68,7 +67,7 @@ p1{
 }
 
 h1{
-   color:white;
+   color:#f2dbc0;
     font-size: 100pt;
     text-align: center;
     padding-top: 80px;

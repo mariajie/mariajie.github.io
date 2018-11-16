@@ -8,8 +8,7 @@ body {
 }
 
 #capcalera{
-	background: #504a4b;
-	color: #504a4b;
+	background: black;
 	height: 80px;
 	
 	width: 100%; 
@@ -68,7 +67,7 @@ p1{
 
 h1{
    color: white;
-    font-size: 80pt;
+    font-size: 100pt;
     text-align: center;
     padding-top: 150px;
     font-family: 'Julius Sans One', sans-serif;

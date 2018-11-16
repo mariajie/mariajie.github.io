@@ -109,6 +109,7 @@ ul, ol{
 .nav >li{
 	float: left;
     background: none;
+	color:balck;
 }
 
 .nav li a:hover{

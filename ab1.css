@@ -1,20 +1,16 @@
+
+
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes');
 @import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
 
-html{
-
-}
-
-
-.textimatge{
-    position: relative;
-    display: inline-block;
-    text-align: center;
+body {
+	padding:0px;
+    	background-image: url(http://cdn.eso.org/images/screen/eso0932a.jpg);
+    	background-size: 100%;
 }
 
 #capcalera{
-	background: #504a4b;
-	color: white;
+	background: black;
 	height: 80px;
 	
 	width: 100%; 
@@ -32,51 +28,22 @@ html{
     transform: translate(-50%, -50%);
 }
 
-.ho{
+h2{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-
-#yu{
     font-family: 'Julius Sans One', sans-serif;
-    text-align: center;
-    font-size:50px;
+    font-size: 12pt;
+    padding-left: 450px;
+    padding-top: 20px;
     color: white;
+    
 }
-
-#yo{
-    font-family: calibri light;
-    text-align: center;
-    font-size: 20px;
-    color: white;
-}
-
-body {
-	margin: 110px;
-	padding: 0;
-	font-family:calibri light;
-	color: black;
-	background: #FFEFD4; 
-	font-size: 1em;
-   	line-height: 1.5em;
-    text-align: justify;    
-    background: white;
-	width: 90%;
-	max-width: 800px;
-	margin: 20px auto;
-	box-shadow: 0 0 10px rgba(0,0,0,.1);
-}
-
 
 p{
     position: absolute;
     font-family: 'Julius Sans One', sans-serif;
     font-size: 12pt;
     padding-left: 50px;
-    padding-top: 7px;
+    padding-top: 10px;
     color: white;
     
 }
@@ -92,69 +59,59 @@ p1{
 }
 
 
-#hol{
-    padding: 20px;
+
+.ho{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-#una{
-    padding: 10px;
-    
-}
-
-#jo{
-    float: left;
-    margin: 15px;
-    width: 280px;
-    height: 400px;
+h1{
+   color: white;
+    font-size: 100pt;
+    text-align: center;
+    padding-top: 120px;
+    font-family: 'Julius Sans One', sans-serif;
+   
 }
 
 
-#doc0{
-    margin: 15px;
-    font-size: 25pt;
-}
-
-#p3{
-    font-size: 20%;
-	color: black;
-	margin-right: 30px;
-}
-
-#holi{
-    width: 800px;
-    height: 180px;
-}
-
-/*cosa dimoniaca wtf*/
+/*holiiiii :D*/
 #header{
     margin: auto;
     float: right;
     font-size: 15px;
   }
 
-
 ul, ol{
     list-style: none;
     text-decoration: none;
-    color: #504a4b;
+    color: black;
     float: right;
     padding: 0px;
     background: none;
 }
 
 .nav li a {
-        background: #504a4b;
+        background: NONE;
         display: block;
         text-decoration: none;
-        color: white;
+        color: BLACK;
         padding: 10px 15px;
         padding-right: 20px;
         padding-top: 15px;
+        font-family:calibri;
+    font-size: 15pt;
+        font-family: 'Julius Sans One', sans-serif;
+    color:white;
+    
 }
 
 .nav >li{
 	float: left;
-    background: #504a4b;
+    background: none;
+	color:balck;
 }
 
 .nav li a:hover{
@@ -165,7 +122,7 @@ ul, ol{
 .nav li ul {
     display:none;
     position: absolute;
-    min-width: 60px;
+    min-width: 70px;
     
 }
 
@@ -173,5 +130,7 @@ ul, ol{
     display:block;
     
 }    
+
+
 
 

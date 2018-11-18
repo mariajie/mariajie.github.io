@@ -6,6 +6,7 @@ body {
     	background-image: url(http://cdn.eso.org/images/screen/eso0932a.jpg);
     	background-size: 100%;
 	text-align:center;
+	color:white;
 }
 
 #capcalera{
@@ -232,9 +233,9 @@ $config: (
     vertical-align: middle;
     position: relative;
     overflow: hidden;
-    margin: 0 ceil(font(letter-spacing) / 2);
-    font-family: font(family);
-    font-size: font(size);
+    margin: 500px;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 80px;
     font-weight: 600;
     line-height: font(size);
     text-transform: uppercase;

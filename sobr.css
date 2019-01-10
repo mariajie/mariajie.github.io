@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes');
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One');
+
+html{
+}
+
+/*.textimatge{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}*/
+
+#capcalera{
+	background: #504a4b;
+	color: white;
+	height: 80px;
+	width: 100%; 
+	left: 0; 
+	top: 0; 
+    position: fixed;
+}
+
+p4{
+    padding-top: 105px;
+    padding-left: 200px;
+    font-family: 'Julius Sans One', sans-serif;
+	font-size:30pt;
+    color: black;
+    position: absolute;
+}
+    
+
+.text{
+    margin-left: 200px;
+	margin-top: 180px;
+	margin-right: 800px;
+	padding: 0;
+	font-family:calibri light;
+	font-size: 1em;
+   	line-height: 1.5em;
+	text-align:justify;
+}
+
+#joo{ 
+    float:right;
+    width: 48%;
+    height: auto;
+    /*
+    padding-right: 200px;
+    padding-top: 80px;*/
+}
+
+
+#yo{
+    font-family: calibri light;
+    text-align: center;
+    color: white;
+}
+
+/*body {
+	margin-left: 200px;
+	margin-top: 150px;
+	margin-right: 800px;
+	padding: 0;
+	font-family:calibri light;
+	font-size: 1em;
+   	line-height: 1.5em;
+	text-align:justify;
+}*/
+
+
+
+#hol{
+    padding: 20px;
+}
+
+#una{
+    padding: 10px;    
+}
+
+p{
+    position: absolute;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 12pt;
+    padding-left: 50px;
+    padding-top: 7px;
+    color: white;
+    
+}
+
+p1{
+    position: absolute;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 12pt;
+    padding-left: 45%;
+    padding-top: 30px;
+    color:white;   
+}
+
+
+
+#p3{
+	padding-top: 80px;
+	font-family: calibri light;
+    font-size: 20%;
+	color: black;
+	display: inline-block;
+	text-align: justify;
+}
+
+#holi{
+    width: 800px;
+    height: 180px;
+}
+
+
+#header{
+    margin: auto;
+    float: right;
+	font-family: 'Julius Sans One', sans-serif;
+	font-size: 10pt;
+  }
+
+
+ul, ol{
+    list-style: none;
+    text-decoration: none;
+    color: #504a4b;
+    float: right;
+    padding: 0px;
+    background: none;
+}
+
+.nav li a {
+        background: #504a4b;
+        display: block;
+        text-decoration: none;
+        color: white;
+        padding: 10px 15px;
+        padding-right: 20px;
+        padding-top: 15px;
+}
+
+.nav >li{
+	float: left;
+    background: #504a4b;
+}
+
+.nav li a:hover{
+    background-color: #dcdcdc;
+    
+}
+	
+.nav li ul {
+    display:none;
+    position: absolute;
+    min-width: 60px;
+    
+}
+
+.nav li:hover >ul{
+    display:block;
+    
+}    
